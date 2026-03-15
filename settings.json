@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peaceful-v2NG.aternos.me
-",
+    "ip": peaceful-v2NG.aternos.me",
     "port": 22974,
     "version": "1.21.1",
     "try-creative": false
